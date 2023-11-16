@@ -9,7 +9,7 @@ function App() {
       <Intro/>
       <Skills/>
       <Works/>
-      <Intro/>
+      
     </div>
   );
 }
